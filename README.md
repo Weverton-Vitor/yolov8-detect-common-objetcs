@@ -1,0 +1,1 @@
+# yolov8-detect-common-objetcs
